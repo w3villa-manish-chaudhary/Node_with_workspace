@@ -13,3 +13,9 @@ console.log(name.indexOf('o'))
 
 //  "start": "nodemon index.js"
 console.log("hellonodemon")
+
+
+
+const nametrim = "     manish     "
+console.log(nametrim);
+console.log(nametrim.trim());
