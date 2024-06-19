@@ -84,7 +84,7 @@ console.log(user["location"]);
 
 // Topic 5 Object-Oriented Programming (OOP)
 
-class Janwar{
+class Animal1{
     constructor(name, age) {
         this.name = name;
         this.age = age;
@@ -96,7 +96,7 @@ class Janwar{
 }
 
 const animal = new Janwar('Dog', 5);
-animal.speak();
+Animal1.speak();
 
 // There are many things in oops for learning still i am learning.
 // like eg:- encapsulation, inheritance, polymorphism, and abstraction
