@@ -134,3 +134,17 @@ function thirdFunction() {
 firstFunction();
 setTimeout(secondFunction, 2000);
 thirdFunction();
+
+
+const obj1 = {
+    1 : "a",
+    2 : "b"
+}
+const obj2 ={
+    3 : "C",
+    4 : "d"
+}
+
+// const objadd = Object.assign(obj1,obj2)
+const objadd = {...obj1 , ...obj2}
+console.log(objadd);
