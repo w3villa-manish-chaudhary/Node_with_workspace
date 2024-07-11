@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "test.js",
   "scripts": {
-     "start": "node map.js",
-    "dev": "nodemon map.js"
+     "start": "node mainjs.js",
+    "dev": "nodemon mainjs.js"
   },
   "author": "",
   "license": "ISC",
