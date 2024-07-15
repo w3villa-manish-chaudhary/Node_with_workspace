@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "test.js",
   "scripts": {
-     "start": "node object.js",
-    "dev": "nodemon object.js"
+     "start": "node mainjs.js",
+    "dev": "nodemon mainjs.js"
   },
   "author": "",
   "license": "ISC",
