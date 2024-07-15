@@ -95,8 +95,7 @@ class Animal1{
     }
 }
 
-const animal = new Animal1('Dog', 5);
-animal.speak();
+
 
 // There are many things in oops for learning still i am learning.
 // like eg:- encapsulation, inheritance, polymorphism, and abstraction
